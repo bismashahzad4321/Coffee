@@ -1,7 +1,7 @@
-This is a clone of the Latte Demo coffee website (Live Demo
-) built using React and Tailwind CSS.
+This is a clone of the Latte Demo coffee website ([Live Demo](https://latte-demo.myshopify.com/)
+built using React and Tailwind CSS.
 
-Live Version: Sunny Sfogliatella
+Live Version: https://sunny-sfogliatella-f06027.netlify.app
 
 Features
 
