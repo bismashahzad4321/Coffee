@@ -1,0 +1,20 @@
+/* 👇 Always import Google Fonts at the very top */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+
+/* Then Tailwind layers */
+@import "tailwindcss";
+
+/* Now custom font classes */
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-spicy-rice {
+    font-family: 'Spicy Rice', cursive;
+}
+
+.font-roboto {
+
+    font-family: "Roboto", sans-serif;
+}
